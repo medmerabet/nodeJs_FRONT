@@ -1,1 +1,13 @@
 # nodeJs_FRONT
+...
+Front of the application based on API (Project insight - nodeJS AW EISI 21.1 back).
+
+This API should allow :
+
+    students to rate their teacher's modules
+    administrators to create, read, update and delete sessions or modules or users. They can see the average sessions scores too.
+...
+# Lancer l'application 
+...
+docker-compose up
+...
